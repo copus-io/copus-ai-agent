@@ -1,6 +1,4 @@
 from contextlib import asynccontextmanager
-from http.client import responses
-from operator import index
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
