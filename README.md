@@ -12,3 +12,7 @@
 ### 第四步：
 将相似度最高的信息交给llm，让它生成推荐理由，然后将理由和对应的作品的uuid返回给用户
 
+运行命令：
+uvicorn app.main:app
+
+接口文档：http://localhost:8000/docs

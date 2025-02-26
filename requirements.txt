@@ -3,9 +3,9 @@ langchain-openai>=0.3.6
 langchain-community==0.3.17
 langchain-core==0.3.35
 langchain-chroma==0.2.2
-pymongo==4.6.1
+pymongo==4.6.3
 python-dotenv==1.0.0
 fastapi==0.109.0
 uvicorn==0.27.0
 pydantic==2.10.2
-python-jose==3.3.0
+python-jose==3.4.0
